@@ -46,7 +46,7 @@ echo -e "${GREEN}[4/5] Mengunduh dan Menginstall Paket Carbonio...${NC}"
 echo -e "${GREEN}Proses ini akan memakan waktu lama tergantung koneksi internet.${NC}"
 
 # Paket dasar untuk single-node installation
-https://docs.zextras.com/carbonio-ce/html/_downloads/bed211d6fc1b9ca35f15be01eb9aa3fc/install_carbonio_ce_singleserver_ubuntu.sh
+wget https://docs.zextras.com/carbonio-ce/html/_downloads/bed211d6fc1b9ca35f15be01eb9aa3fc/install_carbonio_ce_singleserver_ubuntu.sh
 chmod +x install_carbonio_ce_singleserver_ubuntu.sh
 sudo ./install_carbonio_ce_singleserver_ubuntu.sh
 
