@@ -49,7 +49,7 @@ echo "deb [arch=amd64 signed-by=/usr/share/keyrings/zextras.gpg] https://repo.ze
 
 apt update
 
-# 6. Instalasi Paket Utama (Single Server)
+# 7. Instalasi Paket Utama (Single Server)
 echo -e "${GREEN}[4/5] Mengunduh dan Menginstall Paket Carbonio...${NC}"
 echo -e "${GREEN}Proses ini akan memakan waktu lama tergantung koneksi internet.${NC}"
 
@@ -58,7 +58,7 @@ wget https://docs.zextras.com/carbonio-ce/html/_downloads/bed211d6fc1b9ca35f15be
 chmod +x install_carbonio_ce_singleserver_ubuntu.sh
 sudo ./install_carbonio_ce_singleserver_ubuntu.sh
 
-# 7. Selesai
+# 8. Selesai
 echo -e "--------------------------------------------------------"
 echo -e "${GREEN}INSTALASI SELESAI (TAHAP AWAL)${NC}"
 echo -e "Langkah selanjutnya yang HARUS dilakukan:"
