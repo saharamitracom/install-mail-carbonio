@@ -62,6 +62,6 @@ sudo ./install_carbonio_ce_singleserver_ubuntu.sh
 echo -e "--------------------------------------------------------"
 echo -e "${GREEN}INSTALASI SELESAI (TAHAP AWAL)${NC}"
 echo -e "Langkah selanjutnya yang HARUS dilakukan:"
-echo -e "1. Jalankan konfigurasi bootstrap: ${RED}sudo carbonio-bootstrap${NC}"
-echo -e "2. Setup Password Admin: ${RED}sudo su - zextras -c \"carbonio prov sp zextras@domainanda.com PasswordKu123\"${NC}"
+echo -e "1. Setup Password Admin: ${RED}sudo su - zextras -c \"carbonio prov sp zextras@domainanda.com PasswordKu123\"${NC}"
+echo -e "2. Reboot Server: ${RED}sudo reboot${NC}"
 echo -e "--------------------------------------------------------"
