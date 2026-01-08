@@ -1,1 +1,1 @@
-# install-mail-carbonio
+CARBONIO CE AUTO-INSTALLER FOR UBUNTU 24.04
