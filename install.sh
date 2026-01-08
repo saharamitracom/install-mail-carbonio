@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==========================================================================
-# CARBONIO CE AUTO-INSTALLER FOR UBUNTU 24.04
+# CARBONIO CE AUTO-INSTALLER FOR UBUNTU 22.04 & 24.04 
 # ==========================================================================
 
 # Warna untuk output
